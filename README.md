@@ -36,7 +36,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/mfaisalqu
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Fayouzz/Spam-Email-Classsifer.git
+   git clone https://github.com/tahera28/Spam-Email-Classsifer.git
 2. Navigate to the project directory:
    ```bash
    cd spamemailclassifier
@@ -48,8 +48,3 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/mfaisalqu
    python spamemailclassifier.py
 Be sure to replace spamemailclassifier.py with the actual filename of your Python script.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Fayouzz/Spam-Email-Classsifer/blob/main/LICENSE) file for details.
-
-## Contact
-Any suggestions, feedback or questions about this project would be appreciated. Feel free to reach out to me at [Fayouz](mailto:chappufayouz@gmail.com).
